@@ -1,7 +1,7 @@
 # Mortal Kombat - pet project
 ## Author - artiwok
 ### Stack of Technologies:
-- HTNL
+- HTML
 - CSS
 - Normalize
 - jQuery
